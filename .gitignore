@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 .DS_Store
+.claude/
 
 data/
-submission.csvvenv/
+submission.csv
